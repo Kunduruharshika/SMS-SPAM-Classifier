@@ -36,17 +36,17 @@ Through this work, the goal was not only to build an effective classifier but al
 ## Project Structure
 sms-spam-classifier/
 │
-├── README.md                                # Project summary (this file)
+├── README.md                                
 ├── SMS_Spam_Classifier_Case_Study_Harshika.docx   # Detailed storytelling report
 │
 ├── notebooks/
 │   └── Updated_SMS_Spam_Classifier_Harshika_Final_1.ipynb  # Analysis notebook
 │
 ├── data/
-│   └── spam.csv                             # Dataset (if included)
+│   └── spam.csv                           
 │
-├── banner.png                               # Project banner image
-├── requirements.txt                         # Optional: dependencies
+├── banner.png                               
+├── requirements.txt                       
 
 
 ---
