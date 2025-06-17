@@ -1,8 +1,6 @@
 # SMS-SPAM-Classifier
 
-[![Click to view the full case study](phan-mem-spam-sms.jpg)](SMS Spam Classifier documentation.docx)
-
-> *Click the image above to view the full project documentation and storytelling report.*
+[![Click to view the full case study](phan-mem-spam-sms.jpg)](SMS_Spam_Classifier_Case_Study_Harshika.docx)
 
 ---
 
