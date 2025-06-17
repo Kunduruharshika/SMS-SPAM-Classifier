@@ -1,6 +1,6 @@
 # SMS-SPAM-Classifier
 
-[![Click to view the full case study](phan-mem-spam-sms.jpg)]
+![Click to view the full case study](phan-mem-spam-sms.jpg)
 
 ---
 
