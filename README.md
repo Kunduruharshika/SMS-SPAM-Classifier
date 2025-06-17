@@ -8,7 +8,7 @@
 
 This project focuses on building a machine learning model to classify SMS messages as either **spam** or **ham** (legitimate), using Natural Language Processing (NLP) techniques. It simulates a real-world scenario where businesses or platforms need to automatically detect and filter unwanted or harmful messages.
 
-Through this work, the goal was not only to build an effective classifier but also to demonstrate a structured analytical workflow and communicate findings clearly.
+The objective was not only to build an effective classifier but also to demonstrate a structured analytical workflow and communicate findings clearly.
 
 ---
 
@@ -33,24 +33,6 @@ Through this work, the goal was not only to build an effective classifier but al
 
 ---
 
-## Project Structure
-sms-spam-classifier/
-│
-├── README.md                                
-├── SMS_Spam_Classifier_Case_Study_Harshika.docx   # Detailed storytelling report
-│
-├── notebooks/
-│   └── Updated_SMS_Spam_Classifier_Harshika_Final_1.ipynb  # Analysis notebook
-│
-├── data/
-│   └── spam.csv                           
-│
-├── banner.png                               
-├── requirements.txt                       
-
-
----
-
 ## How to Run the Project
 
 Clone the repository:
@@ -61,17 +43,16 @@ cd sms-spam-classifier
 
 ## Documentation
 
-A detailed project report is available in the file:
+A detailed case study report is available:
 
-**SMS_Spam_Classifier_Case_Study_Harshika.docx**
+SMS_Spam_Classifier_Case_Study_Harshika.docx
 
-It walks through the full problem-solving process — from defining the problem and exploring the data to model building, evaluation, and final insights. This document highlights not only technical steps but also the reasoning and storytelling behind the decisions made.
+It covers the full workflow—from problem understanding and data exploration to modeling, evaluation, and insights. The report reflects both technical and storytelling skills.
 
 ---
 
 ## About Me
 
-I'm Harshika, a recent graduate with a strong interest in data analytics and natural language processing. I enjoy solving real-world problems using data and communicating insights in a structured, meaningful way.
-
+I'm Harshika, a recent graduate with a strong interest in data analytics and natural language processing. I enjoy solving practical problems using data and communicating insights in a clear and structured way. I'm currently looking for entry-level roles in data analytics.
 
 
